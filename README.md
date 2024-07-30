@@ -3,15 +3,43 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samimnaser&label=Profile%20views&color=0e75b6&style=flat" alt="samimnaser" /> </p>
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/jackpraveenraj/Donut-CPP/main/Donut-C.gif" /> </p>
 
-- 🌱 I’m currently learning **JAVA And Data Structures**
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=2000&center=true&vCenter=true&random=true&width=480&height=30&lines=Always+learning+new+things.;Continuous+coding%2C+perpetual+learning.;Coding+my+dreams+into+reality.)](https://git.io/typing-svg)
 
-- 📫 How to reach me **samimnaser42@gmail.com**
+</div>
 
-- ⚡ Fun fact **I Like Mountanins**
+<h1></h1>
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h2 align="left"> About Me :</h2>
+
+- 🎓 Studying in **Class 12 Science Stream**
+  <img align="right" alt="coding"  height="260" width="350" src="https://raw.githubusercontent.com/jackpraveenraj/Donut-CPP/main/Donut-C.gif" /> </p>
+- 💻 Programming in **JAVA , Python**
+- 📏 I Know **HTML , C++**
+- 🖥️ I Use **Apache NetBeans 22** for coding
+- 🤖 Interested in **AI ,Data science , Machine Learing**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+- ⚡ Fun fact **I Like Sleeping**
+
+
+- <h2 align="left"> How to Reach Me :</h2>
+
+- GitHub: [@SamimNaser](https://github.com/SamimNaser)
+- Email: [samimnaser42@gamil.com](samimnaser42@gmail.com)
+
+<h2 align="left"> Interests :</h2>
+
+- 🗻 Love for **Mountains And Forrests**
+- 🎮 Games **Efootball IOS** 
+- ⚽ I Occasionally play **Football**
+
+
+
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://instagram.com/samimnaser_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SamimNaser_" height="30" width="40" /></a>
 </p>
