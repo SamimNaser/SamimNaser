@@ -21,7 +21,7 @@
 - 💻 Programming in **JAVA , Python**
 - 📏 I Know **HTML , C++**
 - 🖥️ I Use **Apache NetBeans 22** for coding
-- 🤖 Interested in **AI ,Data science , Machine Learing**
+- 🤖 Interested in **AI ,Data Science , Machine Learning**
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - ⚡ Fun fact **I Like Sleeping**
 
