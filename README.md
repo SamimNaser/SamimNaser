@@ -26,7 +26,7 @@
 - ⚡ Fun fact **I Like Sleeping**
 
 
-- <h2 align="left"> How to Reach Me :</h2>
+<h2 align="left"> How to Reach Me :</h2>
 
 - GitHub: [@SamimNaser](https://github.com/SamimNaser)
 - Email: [samimnaser42@gamil.com](samimnaser42@gmail.com)
