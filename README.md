@@ -61,4 +61,6 @@
 
 <a href=https://git-scm.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/SamimNaser/BraveBrowser/refs/heads/main/Brave%20Logo%20Vector.svg alt="git" width="40" height="40"/> </a> 
 
+<a href=https://git-scm.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/SamimNaser/BraveBrowser/refs/heads/main/Apache_NetBeans_Logo.svg alt="git" width="40" height="40"/> </a> 
+
 </p>
