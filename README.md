@@ -53,8 +53,12 @@
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/> </a> 
 
-<a href=https://www.apple.com/in/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="python" width="40" height="40"/> </a> 
-  
+<a href=https://www.apple.com/in/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </a> 
+
+<a href=https://git-scm.com/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
+
+<a href=https://git-scm.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/SamimNaser/BraveBrowser/refs/heads/main/Brave%20Logo%20Vector.svg alt="git" width="40" height="40"/> </a> 
+
 </p>
