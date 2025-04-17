@@ -20,9 +20,9 @@
   <img align="right" alt="coding"  height="260" width="350" src="https://raw.githubusercontent.com/jackpraveenraj/Donut-CPP/main/Donut-C.gif" /> </p>
 - 💻 Programming in **JAVA , Python**
 - 📏 I Know **HTML , C++**
-- 🖥️ I Use **Apache NetBeans 22** for coding
+- 🖥️ I Use **VS CODE** for coding
 - 🤖 Interested in **AI ,Data Science , Machine Learning**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **MySQL And Database Management**
 - ⚡ Fun fact **I Like Sleeping**
 
 
