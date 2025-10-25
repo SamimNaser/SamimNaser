@@ -34,8 +34,7 @@
 <h2 align="left"> Interests :</h2>
 
 - 🗻 Love for **Mountains And Forrests**
-- 🎮 Games **Efootball IOS** 
-- ⚽ I Occasionally play **Football**
+- ⚽ I Occasionally play **Football (ST)**
 
 
 
