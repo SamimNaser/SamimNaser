@@ -56,6 +56,7 @@ alt="dart" alt="dart" width="40" height="40" /> </kbd> </a> <kbd> <a href=https:
 
 
 <kbd> <a href=https://iterm2.com/ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/iterm_terminal_icon.svg" alt="iterm2" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://brave.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/Brave_lion_icon.svg alt="Brave" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://www.apple.com/in/safari/ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/firefox-browser-developer-edition.svg" alt="firefoxdeveloper" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://www.apple.com/in/safari/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original.svg" alt="Safari" width="40" height="40"/> </kbd> </a> 
+
 <kbd> <a href=https://www.apple.com/in/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://www.apple.com/in/macos/macos-sequoia/ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/icons8-macos-480.svg" alt="MacOS" width="40" height="40"/> </kbd> </a> 
 
 
