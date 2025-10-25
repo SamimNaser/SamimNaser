@@ -18,7 +18,7 @@
 
 - 🎓 Studying in **Class 12 Science Stream**
   <img align="right" alt="coding"  height="260" width="350" src="https://raw.githubusercontent.com/jackpraveenraj/Donut-CPP/main/Donut-C.gif" /> </p>
-- 💻 Programming in **JAVA , Python**
+- 💻 Programming in **Java , Python**
 - 📏 I Know **REACT , DART**
 - 🖥️ I Use **VS CODE** for coding
 - 🤖 Interested in **AI ,Data Science , Machine Learning**
