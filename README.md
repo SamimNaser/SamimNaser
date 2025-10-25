@@ -19,10 +19,10 @@
 - 🎓 Studying in **Class 12 Science Stream**
   <img align="right" alt="coding"  height="260" width="350" src="https://raw.githubusercontent.com/jackpraveenraj/Donut-CPP/main/Donut-C.gif" /> </p>
 - 💻 Programming in **JAVA , Python**
-- 📏 I Know **HTML , DART**
+- 📏 I Know **REACT , DART**
 - 🖥️ I Use **VS CODE** for coding
 - 🤖 Interested in **AI ,Data Science , Machine Learning**
-- 🌱 I’m currently learning **MySQL And Database Management**
+- 🌱 I’m currently learning **Python and DSA**
 - ⚡ Fun fact **I Like Sleeping**
 
 
