@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm SK </h1>
+<h1 align="center">Hi , I'm SK </h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samimnaser&label=Profile%20views&color=0e75b6&style=flat" alt="samimnaser" /> </p>
 
 
 <div align="center">
@@ -13,11 +11,9 @@
 <h1></h1>
 
 
-
-<h2 align="left"> About Me :</h2>
+<h3 align="left">About Me :</h2>
 
 - 🎓 Studying in **Class 12 Science Stream**
-  <img align="right" alt="coding"  height="260" width="350" src="https://raw.githubusercontent.com/jackpraveenraj/Donut-CPP/main/Donut-C.gif" /> </p>
 - 💻 Programming in **Java , Python**
 - 📏 I Know **REACT , DART**
 - 🖥️ I Use **VS CODE** for coding
@@ -26,24 +22,24 @@
 - ⚡ Fun fact **I Like Sleeping**
 
 
-<h2 align="left"> How to Reach Me :</h2>
+<h3 align="left">How to Reach Me :</h2>
 
 - GitHub: [@SamimNaser](https://github.com/SamimNaser)
 - Email: [samimnaser42@gamil.com](samimnaser42@gmail.com)
 
-<h2 align="left"> Interests :</h2>
+<h3 align="left">Interests :</h2>
 
 - 🗻 Love for **Mountains And Forrests**
 - ⚽ I Occasionally play **Football (ST)**
 
 
 
-<h3 align="left"> Connect with me :</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <kbd> <a href="https://instagram.com/samimnaser_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SamimNaser_" height="40" width="40" /> </a> </kbd>
 </p>
 
-<h3 align="left"> Languages and Tools :</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
 
 <kbd> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  </kbd> </a> <kbd> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt ="css3" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt ="tailwindcss" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt ="javascript" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://www.w3schools.com/typescript/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt ="typescript" width="40" height="40"/> </kbd> </a>  <kbd> <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt ="react" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  alt="flutter" width="40" height="40"/> </kbd> </a>
@@ -59,17 +55,19 @@ alt="dart" alt="dart" width="40" height="40" /> </kbd> </a> <kbd> <a href=https:
 
 <kbd> <a href=https://www.apple.com/in/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://www.apple.com/in/macos/macos-sequoia/ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/icons8-macos-480.svg" alt="MacOS" width="40" height="40"/> </kbd> </a> 
 
+</p>
+
+<h3 align="left">GitHub Stats :</h3>
+
 <div align="center">
-  <h2 align="left"> GitHub Stats :</h2>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&theme=transparent&hide_border=true" height="180"/>
+
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=SamimNaser&icon=5&color=3)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=2000>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</p>
+
+
