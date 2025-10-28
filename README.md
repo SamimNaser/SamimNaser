@@ -59,11 +59,15 @@ alt="dart" alt="dart" width="40" height="40" /> </kbd> </a> <kbd> <a href=https:
 
 <kbd> <a href=https://www.apple.com/in/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://www.apple.com/in/macos/macos-sequoia/ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/icons8-macos-480.svg" alt="MacOS" width="40" height="40"/> </kbd> </a> 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SamimNaser&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=SamimNaser&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <h2 align="left"> GitHub Stats :</h2>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 [![](https://visitcount.itsvg.in/api?id=SamimNaser&icon=5&color=3)](https://visitcount.itsvg.in)
 
