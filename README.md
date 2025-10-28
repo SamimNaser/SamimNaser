@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm SK </h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=2000&center=true&vCenter=true&random=true&width=480&height=30&lines=Learing+From+Mistakes.;Cracking+Code,+Embracing+Evolution.;Code,+Coffee,+Repeat.)](https://git.io/typing-svg)
@@ -60,6 +59,7 @@ alt="dart" alt="dart" width="40" height="40" /> </kbd> </a> <kbd> <a href=https:
 <h3 align="left">GitHub Stats :</h3>
 
 <div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samimnaser&label=Profile%20views&color=0e75b6&style=flat" alt="samimnaser" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&theme=transparent&hide_border=true" height="180"/>
