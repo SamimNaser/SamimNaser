@@ -61,7 +61,8 @@ alt="dart" alt="dart" width="40" height="40" /> </kbd> </a> <kbd> <a href=https:
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&theme=transparent&hide_border=true" height="180"/>
 
 </div>
