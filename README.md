@@ -104,7 +104,7 @@ combine thoughtful design with solid engineering principles.
 <h2 align="center"><em><b>Statistics</b></em></h2>  
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SamimNaser&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&border_radius=0" height="200" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SamimNaser&show_icons=true&hide_border=true&hide=prs&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&border_radius=0" height="200" width="420"/>
   <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=0" height="200" width="420"/>
 </p>
