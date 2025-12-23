@@ -1,74 +1,90 @@
-<h1 align="center">Hi 👋, I'm SK </h1>
-<h3 align="center">A passionate Computer Science Student from India</h3>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=2000&center=true&vCenter=true&random=true&width=480&height=30&lines=Learning+From+Mistakes.;Cracking+Code,+Embracing+Evolution.;Code,+Coffee,+Repeat.)](https://git.io/typing-svg)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samimnaser&label=Profile%20views&color=0e75b6&style=flat" alt="samimnaser" /> </p>
-</div>
-
-<h1></h1>
-
-
-<h3 align="left">About Me :</h2>
-
-- 🎓 Studying in **Class 12 Science Stream**
-- 💻 Programming in **Java , Python**
-- 📏 I Know **REACT , DART**
-- 🖥️ I Use **VS CODE** for coding
-- 🤖 Interested in **AI ,Data Science , Machine Learning**
-- 🌱 I’m currently learning **Python and DSA**
-- ⚡ Fun fact **I Like Sleeping**
-
-
-<h3 align="left">How to Reach Me :</h2>
-
-- GitHub: [@SamimNaser](https://github.com/SamimNaser)
-- Email: [samimnaser42@gamil.com](samimnaser42@gmail.com)
-
-<h3 align="left">Interests :</h2>
-
-- 🗻 Love for **Mountains And Forrests**
-- ⚽ I Occasionally play **Football (ST)**
-
-
-
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<kbd> <a href="https://instagram.com/samimnaser_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SamimNaser_" height="40" width="40" /> </a> </kbd>
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/7b/0d/cc/7b0dcc094fa5f7bead2eed9c3a976e92.jpg" />
+</p>
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/SamimNaser" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Email -->
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Instagram -->
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
-<p align="left"> 
+<br/>
 
-<kbd> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  </kbd> </a> <kbd> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt ="css3" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt ="tailwindcss" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt ="javascript" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://www.w3schools.com/typescript/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt ="typescript" width="40" height="40"/> </kbd> </a>  <kbd> <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt ="react" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"  alt="flutter" width="40" height="40"/> </kbd> </a>
-<kbd> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-alt="dart" alt="dart" width="40" height="40" /> </kbd> </a> <kbd> <a href=https://www.mysql.com/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" width="40" height="40"/> </kbd> </a> 
+<h2 align="center"><em>About Me</em></h2>
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 
-<kbd> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Andriod Studio" width="40" height="40" /> </kbd> </a>
-<kbd> <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40" /> </kbd> </a> <kbd> <a href=https://www.jetbrains.com/idea/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </kbd> </a>  </a> <kbd> <a href=https://www.jetbrains.com/pycharm/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://git-scm.com/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </kbd> </a> <kbd> <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </kbd> </a>
-          
+<br/>
 
+<p>
+I’m <em><b>Sk Samim Naser</b></em>, a developer with a strong interest in building clean,
+efficient, and scalable applications. While I work across the stack, my
+primary interest lies in frontend development—crafting intuitive user
+interfaces, polished user experiences, and responsive designs that feel
+natural to use.
 
-<kbd> <a href=https://iterm2.com/ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/iterm_terminal_icon.svg" alt="iterm2" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://brave.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/Brave_lion_icon.svg alt="Brave" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://www.apple.com/in/safari/ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/firefox-browser-developer-edition.svg" alt="firefoxdeveloper" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://www.apple.com/in/safari/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/safari/safari-original.svg" alt="Safari" width="40" height="40"/> </kbd> </a> 
+I enjoy working with modern frontend technologies and frameworks, and I
+pay close attention to code structure, performance, and maintainability.
+Alongside frontend development, I have experience integrating backend
+services, APIs, and databases to build complete, functional applications.
 
-<kbd> <a href=https://www.apple.com/in/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple" width="40" height="40"/> </kbd> </a> <kbd> <a href=https://www.apple.com/in/macos/macos-sequoia/ target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SamimNaser/SamimNaser/refs/heads/main/icons8-macos-480.svg" alt="MacOS" width="40" height="40"/> </kbd> </a> 
-
+Recently, I’ve been exploring automation and AI-driven workflows,
+experimenting with tools that streamline development processes, improve
+productivity, and enhance the overall developer experience. I’m
+continuously learning, refining my skills, and building projects that
+combine thoughtful design with solid engineering principles.
 </p>
 
-<h3 align="left">GitHub Stats :</h3>
+<br/>
 
-<div align="center">
+<h2 align="center"><em><b>Programming Languages<b></em></h2>
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black"/></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&color=black"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=black"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white&color=black"/></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=black"/></a>
+  <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=black"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&color=black"/></a>
+</p>
+
+<br />
+
+<h2 align="center"><em><b>Tools & IDE</b></em></h2>
+<p align="center">
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&color=black"/></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=microsoft&logoColor=white&color=black"/></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black"/></a>
+  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&color=black"/></a>
+  <a href="https://iterm2.com" target="_blank"><img src="https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white&color=black"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black"/></a>
+  <a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&color=black"/></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=black"/></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black"/></a>
+  <a href="https://ollama.com" target="_blank"><img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white&color=black"/></a>
+  <a href="https://www.perplexity.ai" target="_blank"><img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white&color=black"/></a>
+  <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white&color=black"/></a>
+  <a href="https://www.apple.com/safari/" target="_blank"><img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white&color=black"/></a>
+  <a href="https://brave.com" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white&color=black"/></a>
+</p>
+</p>
+
+<br />
+
+<h2 align="center"><em><b>Statictics</b></em></h2>  
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SamimNaser&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&border_radius=0" height="180"/>
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=0" height="180"/>
+  <!-- Top Languages (last, height-fixed) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&layout=compact&langs_count=5&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=0&langs_color=B3B3B3" height="180"/>
+
+
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&theme=transparent&hide_border=true" height="180"/>
-
-</div>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=2000>
-
-
-
