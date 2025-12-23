@@ -23,7 +23,7 @@
 I’m <em><b>Sk Samim Naser</b></em>, a developer with a strong interest in building clean,
 efficient, and scalable applications. While I work across the stack, my
 primary interest lies in frontend development—crafting intuitive user
-interfaces, polished user experiences, and responsive designs that feel
+interfaces, polished user experiences, and minimal designs that feel
 natural to use.
 
 I enjoy working with modern frontend technologies and frameworks, and I
