@@ -67,7 +67,7 @@ combine thoughtful design with solid engineering principles.
 
 <br />
 
-<h2 align="center"><em><b>Tools & IDE</b></em></h2>
+<h2 align="center"><em><b>Developer Tools & IDE</b></em></h2>
 <p align="center">
   <!-- VS Code -->
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=microsoft&logoColor=white&color=black"/></a>
@@ -101,14 +101,14 @@ combine thoughtful design with solid engineering principles.
 
 <br />
 
-<h2 align="center"><em><b>Statictics</b></em></h2>  
+<h2 align="center"><em><b>Statistics</b></em></h2>  
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=SamimNaser&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&border_radius=0" height="180"/>
   <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=0" height="180"/>
   <!-- Top Languages (last, height-fixed) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&layout=compact&langs_count=5&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=0&langs_color=B3B3B3" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&layout=compact&langs_count=5&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=0&langs_color=B3B3B3" height="180"/> -->
 </p>
 
 
