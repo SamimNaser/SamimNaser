@@ -109,6 +109,7 @@ combine thoughtful design with solid engineering principles.
   <img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=0" height="180"/>
   <!-- Top Languages (last, height-fixed) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamimNaser&layout=compact&langs_count=5&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=0&langs_color=B3B3B3" height="180"/>
+</p>
 
 
   
