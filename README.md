@@ -15,7 +15,7 @@
 <br/>
 
 <h2 align="center"><em>About Me</em></h2>
-<img src="kaizen.png" width="315" height="415" align="right" style="margin-left: 20px; margin-top: 20px;" />
+<img src="kaizen.png" width="315" height="415" align="right" style="margin-left: 20px margin-top: 20px;" />
 
 <br/>
 
