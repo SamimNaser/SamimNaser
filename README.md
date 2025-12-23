@@ -5,9 +5,9 @@
   <!-- GitHub -->
   <a href="https://github.com/SamimNaser" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:samimnaser42@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/samimnaser_" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <!-- Discord -->
   <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
@@ -42,15 +42,25 @@ combine thoughtful design with solid engineering principles.
 
 <h2 align="center"><em><b>Programming Languages<b></em></h2>
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black"/></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black"/></a>
+  <!-- java -->
   <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&color=black"/></a>
+  <!-- python -->
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=black"/></a>
+  <!-- html5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=black"/></a>
+  <!-- css -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white&color=black"/></a>
+  <!-- javascript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=black"/></a>
+  <!-- typescript -->
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=black"/></a>
+  <!-- tailwindcss -->
   <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=black"/></a>
+  <!-- react -->
   <a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=black"/></a>
+  <!-- dart -->
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&color=black"/></a>
+  <!-- flutter -->
   <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&color=black"/></a>
 </p>
 
@@ -58,21 +68,34 @@ combine thoughtful design with solid engineering principles.
 
 <h2 align="center"><em><b>Tools & IDE</b></em></h2>
 <p align="center">
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&color=black"/></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=microsoft&logoColor=white&color=black"/></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black"/></a>
-  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&color=black"/></a>
-  <a href="https://iterm2.com" target="_blank"><img src="https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white&color=black"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black"/></a>
-  <a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&color=black"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=black"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black"/></a>
-  <a href="https://ollama.com" target="_blank"><img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white&color=black"/></a>
-  <a href="https://www.perplexity.ai" target="_blank"><img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white&color=black"/></a>
-  <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white&color=black"/></a>
-  <a href="https://www.apple.com/safari/" target="_blank"><img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white&color=black"/></a>
-  <a href="https://brave.com" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white&color=black"/></a>
-</p>
+  <!-- VS Code -->
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=microsoft&logoColor=white&color=black"/></a>
+<!-- PyCharm -->
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black"/></a>
+<!-- Android Studio -->
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&color=black"/></a>
+<!-- Xcode -->
+<a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&color=black"/></a>
+<!-- iTerm2 -->
+<a href="https://iterm2.com" target="_blank"><img src="https://img.shields.io/badge/iTerm2-%23000000?style=for-the-badge&logo=iterm2&logoColor=white&color=black"/></a>
+<!-- MySQL -->
+<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black"/></a>
+<!-- Git -->
+<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=black"/></a>
+<!-- Vite -->
+<a href="https://vitejs.dev" target="_blank"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&color=black"/></a>
+<!-- Docker -->
+<a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=black"/></a>
+<!-- n8n -->
+<a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white&color=black"/></a>
+<!-- Ollama -->
+<a href="https://ollama.com" target="_blank"><img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white&color=black"/></a>
+<!-- Perplexity -->
+<a href="https://www.perplexity.ai" target="_blank"><img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white&color=black"/></a>
+<!-- Safari -->
+<a href="https://www.apple.com/safari/" target="_blank"><img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white&color=black"/></a>
+<!-- Brave -->
+<a href="https://brave.com" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white&color=black"/></a>
 </p>
 
 <br />
