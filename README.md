@@ -93,6 +93,8 @@ combine thoughtful design with solid engineering principles.
 <a href="https://ollama.com" target="_blank"><img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white&color=black"/></a>
 <!-- Perplexity -->
 <a href="https://www.perplexity.ai" target="_blank"><img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white&color=black"/></a>
+<!-- Figma -->
+<a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=black"/></a> 
 <!-- Safari -->
 <a href="https://www.apple.com/safari/" target="_blank"><img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white&color=black"/></a>
 <!-- Brave -->
