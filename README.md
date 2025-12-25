@@ -4,6 +4,8 @@
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/SamimNaser" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- GitLab -->
+  <a href="https://gitlab.com/SamimNaser" target="_blank"><img src="https://img.shields.io/badge/gitlab-000000.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
   <!-- Email -->
   <a href="mailto:samimnaser42@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <!-- Instagram -->
