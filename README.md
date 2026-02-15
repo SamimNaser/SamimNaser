@@ -43,7 +43,7 @@ combine thoughtful design with solid engineering principles.
 <br/>
 <br/>
 
-<h2 align="center"><em><b>Programming Languages<b></em></h2>
+<h2 align="center"><em><b>Tech Stack<b></em></h2>
 <p align="center">
   <!-- java -->
   <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black"/></a>
@@ -69,7 +69,7 @@ combine thoughtful design with solid engineering principles.
 
 <br />
 
-<h2 align="center"><em><b>Developer Tools & IDE</b></em></h2>
+<h2 align="center"><em><b>Developer Ecosystem</b></em></h2>
 <p align="center">
   <!-- VS Code -->
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=microsoft&logoColor=white&color=black"/></a>
