@@ -97,8 +97,8 @@ combine thoughtful design with solid engineering principles.
 <a href="https://www.perplexity.ai" target="_blank"><img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white&color=black"/></a>
 <!-- Figma -->
 <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=black"/></a> 
-<!-- Safari -->
-<a href="https://www.apple.com/safari/" target="_blank"><img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white&color=black"/></a>
+<!-- Zen -->
+<a href="https://zen-browser.app/" target="_blank"><img src="https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white&color=black"/></a>
 <!-- Brave -->
 <a href="https://brave.com" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white&color=black"/></a>
 </p>
