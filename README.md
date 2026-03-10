@@ -98,7 +98,7 @@ combine thoughtful design with solid engineering principles.
 <!-- Figma -->
 <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=black"/></a> 
 <!-- Zen -->
-<a href="https://zen-browser.app/" target="_blank"><img src="https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white&color=black"/></a>
+<a href="https://arc.net/" target="_blank"><img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white"/></a>
 <!-- Brave -->
 <a href="https://brave.com" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white&color=black"/></a>
 </p>
