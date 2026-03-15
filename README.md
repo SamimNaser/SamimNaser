@@ -93,11 +93,9 @@ combine thoughtful design with solid engineering principles.
 <a href="https://n8n.io" target="_blank"><img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white&color=black"/></a>
 <!-- Ollama -->
 <a href="https://ollama.com" target="_blank"><img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white&color=black"/></a>
-<!-- Perplexity -->
-<a href="https://www.perplexity.ai" target="_blank"><img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white&color=black"/></a>
 <!-- Figma -->
 <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=black"/></a> 
-<!-- Zen -->
+<!-- Arc -->
 <a href="https://arc.net/" target="_blank"><img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white"/></a>
 <!-- Brave -->
 <a href="https://brave.com" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white&color=black"/></a>
