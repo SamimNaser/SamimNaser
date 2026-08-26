@@ -22,22 +22,11 @@
 <br/>
 
 <p>
-I’m <em><b>Sk Samim Naser</b></em>, a developer with a strong interest in building clean,
-efficient, and scalable applications. While I work across the stack, my
-primary interest lies in frontend development—crafting intuitive user
-interfaces, polished user experiences, and minimal designs that feel
-natural to use.
+I’m <em><b>Sk Samim Naser</b></em>,I build modern software with a focus on clean interfaces, thoughtful architecture, and practical solutions. My current work is centered around the React ecosystem and modern web development.
 
-I enjoy working with modern frontend technologies and frameworks, and I
-pay close attention to code structure, performance, and maintainability.
-Alongside frontend development, I have experience integrating backend
-services, APIs, and databases to build complete, functional applications.
+I'm also expanding into backend development with Python, Flask API, and databases, with the goal of building complete and reliable applications rather than focusing only on the frontend.
 
-Recently, I’ve been exploring automation and AI-driven workflows,
-experimenting with tools that streamline development processes, improve
-productivity, and enhance the overall developer experience. I’m
-continuously learning, refining my skills, and building projects that
-combine thoughtful design with solid engineering principles.
+Alongside software development, I'm exploring AI and workflow automation, experimenting with LLMs, local AI tools, and automation workflows to build practical solutions.
 </p>
 
 <br/>
@@ -95,8 +84,6 @@ combine thoughtful design with solid engineering principles.
 <a href="https://ollama.com" target="_blank"><img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white&color=black"/></a>
 <!-- Figma -->
 <a href="https://www.figma.com" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=black"/></a> 
-<!-- Arc -->
-<a href="https://arc.net/" target="_blank"><img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white"/></a>
 <!-- Brave -->
 <a href="https://brave.com" target="_blank"><img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white&color=black"/></a>
 </p>
@@ -108,8 +95,8 @@ combine thoughtful design with solid engineering principles.
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=SamimNaser&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=FFFFFF&border_radius=0" height="200"/>
   <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=0" height="200"/>
-</p>
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=SamimNaser&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border_radius=0" height="200"/>
+</p> -->
 
 
 <!-- Top Languages (last, height-fixed) -->
